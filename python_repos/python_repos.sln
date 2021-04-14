@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "python_repos", "python_repos.pyproj", "{5465F75D-E803-4D78-8B37-350A0D0F5CE5}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "bar_descriptions", "..\bar_descriptions\bar_descriptions.pyproj", "{4A15DAC5-5F5C-4610-BF13-8A829C893EFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5465F75D-E803-4D78-8B37-350A0D0F5CE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5465F75D-E803-4D78-8B37-350A0D0F5CE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A15DAC5-5F5C-4610-BF13-8A829C893EFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A15DAC5-5F5C-4610-BF13-8A829C893EFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D13567F4-6595-4B26-BA87-D8A4085989E1}
+	EndGlobalSection
+EndGlobal
